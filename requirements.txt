@@ -1,0 +1,10 @@
+future==1.0.0
+iso8601==2.1.0
+pyModbusTCP==0.3.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-stubs==5.15.6.0
+PyQt5_sip==12.17.1
+pyserial==3.5
+PyYAML==6.0.3
+serial==0.0.97
